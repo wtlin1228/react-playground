@@ -1,5 +1,6 @@
 {
   "name": "react-playground",
+  "homepage": "http://wtlin1228.github.io/react-playground",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
