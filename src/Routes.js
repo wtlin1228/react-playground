@@ -3,9 +3,7 @@ import { ConnectedRouter } from 'connected-react-router';
 import { renderRoutes } from 'react-router-config';
 import { history } from './store';
 
-function App() {
-  return <div>App</div>;
-}
+import App from 'pages/App';
 
 function About() {
   return <div>About</div>;
