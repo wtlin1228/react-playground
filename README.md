@@ -1,3 +1,9 @@
+## Commit Changes
+
+Use Commitizen for contributors.
+
+So use `git cz` or `npm commit` instead of `git commit`.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
