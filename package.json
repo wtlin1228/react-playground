@@ -11,7 +11,7 @@
     "connected-react-router": "^6.7.0",
     "history": "^4.10.1",
     "immutable": "^4.0.0-rc.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
